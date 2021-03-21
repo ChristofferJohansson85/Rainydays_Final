@@ -54,9 +54,7 @@ h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 50px;
     font-weight: bold;
-    color: #08425B;
-    
-    
+    color: #08425B;   
 }
 
 h2 {
@@ -68,30 +66,14 @@ h2 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 30px;    
     color: white;
-    
-    
-    
-    
-
-    
 }
 
 h3 {
     margin-top: 30px;
-
-}
-
-h4 {
-
-}
-
-.active {
-
 }
 
 .contact {
     background: linear-gradient(#08425B,white);
-
 }
 
 .about1 {
@@ -99,8 +81,6 @@ h4 {
     max-height: 400px;
     float: right;  
     margin-right: 20px; 
-    
-    
 }
 
 .about2 {
@@ -114,16 +94,12 @@ h4 {
     max-width: 400px;
     max-height: 300px;
     float: right;  
-    margin-right: 20px; 
-
+    margin-right: 20px;
 }
 
 .text {
     background-color: rgb(109, 192, 224); border-radius: 10%;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    
-
-
 }
 
 .main {
